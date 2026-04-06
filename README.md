@@ -4,7 +4,8 @@ In this CYOA game you are a hen. Each choice you are given allows you to explore
 
 ## Instructions for Build and Use
 
-[Software Demo](Put_Your_Video_Link_Here)
+[Software Demo] https://www.youtube.com/watch?v=cI06jDrw4Sg
+    https://youtu.be/cl06jDrw4Sg 
 
 Steps to build and/or run the software:
 
